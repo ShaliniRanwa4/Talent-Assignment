@@ -1,0 +1,16 @@
+{
+  "name": "talent-assignment",
+  "version": "1.0.0",
+  "description": "API test case",
+  "type": "module",
+  "scripts": {
+    "test": "mocha --timeout 5000"
+  },
+  "author": "shalini ranwa",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.0",
+    "chai-http": "^4.3.0",
+    "mocha": "^11.0.1"
+  }
+}
